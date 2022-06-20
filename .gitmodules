@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LedPred"]
+	path = LedPred
+	url = https://github.com/aitgon/ledpred
+	shallow = true
+	registered = true
